@@ -1,0 +1,17 @@
+[
+    {
+        "lotNumber": "1",
+        "postalCode": "a1a1",
+        "ownerName": "cheetara"
+    },
+    {
+        "lotNumber": "2",
+        "postalCode": "b2b2",
+        "ownerName": "panthro"
+    },
+    {
+        "lotNumber": "3",
+        "postalCode": "c3c3",
+        "ownerName": "snarf"
+    }
+]

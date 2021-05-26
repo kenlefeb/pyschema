@@ -1,0 +1,34 @@
+[
+    {
+        "lotNumber": "100",
+        "postalCode": "a1a1",
+        "ownerName": "cheetara"
+    },
+    {
+        "postalCode": "a1a1",
+        "ownerName": "cheetara"
+    },
+    {
+        "lotNumber": "2",
+        "postalCode": "b2b2b2b2",
+        "ownerName": "panthro"
+    },
+    {
+        "lotNumber": "2",
+        "postalCode": "!@#$",
+        "ownerName": "panthro"
+    },
+    {
+        "lotNumber": "2",
+        "ownerName": "panthro"
+    },
+    {
+        "lotNumber": "3",
+        "postalCode": "c3c3"
+    },
+    {
+        "lotNumber": "3",
+        "postalCode": "c3c3",
+        "ownerName": "123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 "
+    }
+]
