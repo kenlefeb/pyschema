@@ -1,0 +1,29 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://t2c.clev.frb.org/payment-poc.schema.json",
+    "title": "ThunderCats HOA Search API",
+    "description": "A property record",
+    "type": "object",
+    "properties": {
+        "lotNumber": {
+            "description": "The Lot Number for the property",
+            "type": "string",
+            "pattern": "[0-9]",
+            "minLength": 1,
+            "maxLength": 2
+        },
+        "postalCode": {
+            "description": "The Postal Code for the property",
+            "type": "string"
+        },
+        "ownerName": {
+            "description": "The property's owner's full name",
+            "type": "string"
+        }
+    },
+    "required": [
+        "lotNumber",
+        "postalCode",
+        "ownerName"
+    ]
+}

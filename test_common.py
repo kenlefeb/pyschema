@@ -1,5 +1,4 @@
 import common
-import schema
 import pytest
 import json
 
